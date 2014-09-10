@@ -135,7 +135,7 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
-    padding: 100px 0;
+    padding: 50px 0;
     text-align: center;
     color: #fff;
     background: url(../img/sfondi_web/siortodarocacciari.svg) no-repeat bottom center scroll;
@@ -147,6 +147,8 @@ a:focus {
 }
 
 .intro .intro-body {
+    padding-top: 400px;
+    padding-bottom: 50px;
     display: table-cell;
     vertical-align: middle;
 }
